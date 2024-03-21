@@ -7,5 +7,7 @@ Contributing
 Feel free to contribute to this project by creating pull requests! You can help by:
 
 Fixing bugs
+
 Adding new features
+
 Improving the code or documentation
